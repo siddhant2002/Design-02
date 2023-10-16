@@ -2,26 +2,30 @@
 {
     margin: 0;
     padding: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body
 {
     height: 100vh;
-    font-family: 'Open Sans', sans-serif;
 }
 
 h1
 {
-    font-size: 30px;
     color: white;
+    font-size: 34px;
+    margin-top: 26px;
 }
+
 h3
 {
-    color: #c2c0c0;
+    color: white;
+    margin-top: 10px;
 }
+
 h4
 {
-    color: white
+    margin-top: 36px;
 }
 
 .container
@@ -57,6 +61,9 @@ h4
     margin-top: 16px;
     padding: 11px 25px 11px;
     border-radius: 10px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
     cursor: pointer;
 }
 
@@ -69,5 +76,8 @@ h4
     background-color: black;
     color: white;
     border-radius: 10px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
     cursor: pointer;
 }
