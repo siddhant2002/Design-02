@@ -12,12 +12,16 @@ body
 
 h1
 {
+    font-size: 30px;
     color: white;
 }
-
-p
+h3
 {
-    color: white;
+    color: #c2c0c0;
+}
+h4
+{
+    color: white
 }
 
 .container
