@@ -43,5 +43,27 @@ p
 
 .cont2
 {
-    height: 320px;
+    height: 340px;
+}
+
+.btn
+{
+    font-size: 18px;
+    outline: none;
+    margin-top: 16px;
+    padding: 11px 25px 11px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn1
+{
+    margin-top: 16px;
+    padding: 12px 25px 12px;
+    font-size: 18px;
+    outline: none;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
 }
